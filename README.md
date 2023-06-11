@@ -2,6 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Creating Honey Soc</b>
+  - [Creating Honey Soc](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>How to Harden Network Security (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>How to Create KQL Queries</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>How to create alerts in Azure and Microsoft Sentinel</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
