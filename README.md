@@ -1,8 +1,10 @@
 <h1>Hello, I'm Mike! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" <br/>
   
  
+---
+ Your <a href="https://github.com/Afrocybersamurai">Programmer</a>, IT & Cybersecurity Professional</a>
 
- Your <a href="https://github.com/Afrocybersamurai">Programmer</a>, IT & Cybersecurity Professional</a>, 
+ ---
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -15,8 +17,12 @@
   - [Creating Honey Soc](https://github.com/Afrocybersamurai/honeynet/tree/main)
 
 
-
-
+---
+### Languages and tools ⚙️
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p>
+ <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
+</p>
 
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
