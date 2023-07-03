@@ -1,5 +1,5 @@
-<h1>Hello friends I'm Big Mike! Your <br/><a href="https://github.com/Afrocybersamurai">Programmer</a>, <a href="">IT & Cybersecurity Professional</a>, 
-Welcome to a world of enhanced security to help you meet you business needs
+<h1>Hello, I'm Mike! Your <br/><a href="https://github.com/Afrocybersamurai">Programmer</a>, <a href="">IT & Cybersecurity Professional</a>, 
+- Welcome to a world focused on enhanced security saves your business money and allows your business to operate fully.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
