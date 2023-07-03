@@ -14,7 +14,7 @@
 <h2>💻 Cybersecurity Projects:</h2>
 
 - <b>Creating Honey Soc</b>
-  - [Creating Honey Soc]
+  
 
 
 ---
