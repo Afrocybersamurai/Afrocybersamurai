@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! <br/><a href="https://github.com/Afrocybersamurai">Programmer</a>, <a href="">Cybersecurity Professional</a>, <a href="">YouTuber</a></h1>
+<h1>Hi, I'm Big Mike! <br/><a href="https://github.com/Afrocybersamurai">Programmer</a>, <a href="">IT Professional</a>, <a href="">YouTuber</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
