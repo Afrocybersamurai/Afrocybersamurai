@@ -14,7 +14,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating Honey Soc</b>
-  - [Creating Honey Soc](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating Honey Soc](https://github.com/Afrocybersamurai/honeynet/tree/main)
   - <b>How to Harden Network Security (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
