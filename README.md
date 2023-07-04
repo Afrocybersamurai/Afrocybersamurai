@@ -16,10 +16,9 @@
 - <b>Creating Honey Soc</b>
 
 <h2>💻 Cloud Projects:</h2>
-- <b>Create an Azure Account and Deploy a Virtual Machine in the Cloud</b>
 
+- <b>Microsoft Azure</b>
   - [Create an Azure Account and Deploy a Virtual Machine in the Cloud](https://github.com/Afrocybersamurai/Azure-VM-create)
-
 ---
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
