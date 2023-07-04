@@ -7,7 +7,7 @@
 
 - ☁ Developing Cloud Security Professional
 - 🧠 I’m an eternal learner 
-- ⚒️ I’m currently working a new cloud project
+- ⚒️ I’m currently working on creating a Honey SOC
 - 📣 Ask me about **How to Learn new skills**, **IT**, **Collaboration**, **Career changing**
 
 
