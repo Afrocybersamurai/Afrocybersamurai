@@ -4,14 +4,21 @@
 ---
  Your <a href="https://github.com/Afrocybersamurai">Programmer</a>, IT & Cybersecurity Professional</a>
 [![Profile view](https://komarev.com/ghpvc/?username=Afrocybersamurai&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Afrocybersamurai)
+
+- ☁ Developing Cloud Security Professional
+- 🧠 I’m an eternal learner 
+- ⚒️ I’m currently working a new cloud project
+- 📣 Ask me about **How to Learn new skills**, **IT**, **Collaboration**, **Career changing**
+
+
  ---
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Afrocybersamurai/osticket-prereqs)
 
     
-<h2>💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating Honey Soc</b>
 
