@@ -14,8 +14,11 @@
 <h2>💻 Cybersecurity Projects:</h2>
 
 - <b>Creating Honey Soc</b>
-  
 
+<h2>💻 Cloud Projects:</h2>
+- <b>Create an Azure Account and Deploy a Virtual Machine in the Cloud</b>
+
+  - [Create an Azure Account and Deploy a Virtual Machine in the Cloud](https://github.com/Afrocybersamurai/Azure-VM-create)
 
 ---
 ### Languages and tools ⚙️
