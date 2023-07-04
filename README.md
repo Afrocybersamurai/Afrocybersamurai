@@ -15,7 +15,7 @@
 
 - <b>Creating Honey Soc</b>
 
-<h2>💻 Cloud Projects:</h2>
+<h2>⛅ Cloud Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Create an Azure Account and Deploy a Virtual Machine in the Cloud](https://github.com/Afrocybersamurai/Azure-VM-create)
