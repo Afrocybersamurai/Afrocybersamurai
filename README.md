@@ -7,7 +7,7 @@
 
 - 🧠 I’m an eternal learner 
 - ⚒️ I’m currently working on creating a Honey SOC
-- 📣 Ask me about **IT**, **Collaboration**, **Career changing**
+- 📣 Ask me about **IT** and **Collaboration**
 
 
  ---
