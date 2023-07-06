@@ -5,11 +5,6 @@
  Your <a href="https://github.com/Afrocybersamurai">Programmer</a>, IT & Cybersecurity Professional</a>
 [![Profile view](https://komarev.com/ghpvc/?username=Afrocybersamurai&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Afrocybersamurai)
 
-- 🧠 I’m an eternal learner 
-- ⚒️ I’m currently working on creating a Honey SOC
-- 📣 Ask me about **IT** and **Collaboration**
-
-
  ---
 <h2>💻 Information Technology Projects:</h2>
 
