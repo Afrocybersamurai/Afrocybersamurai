@@ -11,7 +11,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating Honeynet (VM based SOC)</b>
-
+  - Honeynet Summary
+ 
 <h2>⛅ Cloud Projects:</h2>
 
 - <b>Microsoft Azure</b>
