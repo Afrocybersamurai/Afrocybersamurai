@@ -8,11 +8,20 @@
  ---
 
     
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+<h2>💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Afrocybersamurai/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Afrocybersamurai/osTicket---Post-Configuration-Setup)
+  - osTicket: Ticket Lifecycle Examples
+ 
+
+  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating Honeynet (VM based SOC)</b>
   - Honeynet Summary
- 
+
 <h2>⛅ Cloud Projects:</h2>
 
 - <b>Microsoft Azure</b>
@@ -21,14 +30,7 @@
   - Network Security Groups (NSGs) and Inspecting Network Protocols
   - [Network File Shares and Permissions](https://github.com/Afrocybersamurai/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/Afrocybersamurai/Building-Intuition-DNS)
- 
-<h2>💻 Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Afrocybersamurai/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Afrocybersamurai/osTicket---Post-Configuration-Setup)
-  - osTicket: Ticket Lifecycle Examples
-    
+   
 ---
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
