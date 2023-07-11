@@ -30,6 +30,7 @@
 <h2>⛅ Cloud Projects:</h2>
 
 - <b>Microsoft Azure</b>
+
   - [Create an Azure Account and Deploy a Virtual Machine in the Cloud](https://github.com/Afrocybersamurai/Azure-VM-create)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Afrocybersamurai/active-directory-azure)
   - [Building Intuition for DNS](https://github.com/Afrocybersamurai/Building-Intuition-DNS)
