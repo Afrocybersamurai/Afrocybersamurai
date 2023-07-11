@@ -22,15 +22,19 @@
 - <b>Creating Honeynet (VM based SOC)</b>
   - Honeynet Summary
 
+- <b>Network Traffic Analysis</b>
+  - Packet Capture with Wireshark
+  - Traffic Analysis with TCPDump
+
+  
 <h2>⛅ Cloud Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Create an Azure Account and Deploy a Virtual Machine in the Cloud](https://github.com/Afrocybersamurai/Azure-VM-create)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Afrocybersamurai/active-directory-azure)
-  - Network Security Groups (NSGs) and Inspecting Network Protocols
   - [Building Intuition for DNS](https://github.com/Afrocybersamurai/Building-Intuition-DNS)
   - [Network File Shares and Permissions](https://github.com/Afrocybersamurai/Network-File-Shares-and-Permissions)
- 
+  - Network Security Groups (NSGs) and Inspecting Network Protocols 
    
 ---
 ### Languages and tools ⚙️
