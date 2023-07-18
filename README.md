@@ -20,7 +20,7 @@
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating Honeynet (VM based SOC)</b>
-  - Honeynet Summary
+  - [Honeynet Summary](https://github.com/Afrocybersamurai/honeynet/edit/main/README.md)
 
 - <b>Network Traffic Analysis</b>
   - Packet Capture with Wireshark
