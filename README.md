@@ -20,7 +20,7 @@
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating Honeynet (VM based SOC)</b>
-  - [Honeynet Summary](https://github.com/Afrocybersamurai/honeynet/edit/main/README.md)
+  - [Honeynet Summary](https://github.com/Afrocybersamurai/honeynet)
   - [Cloud Soc Prerequisities](https://github.com/Afrocybersamurai/CloudSoC-prereqs)
 
 - <b>Network Traffic Analysis</b>
