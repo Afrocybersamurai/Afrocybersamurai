@@ -21,6 +21,7 @@
 
 - <b>Creating Honeynet (VM based SOC)</b>
   - [Honeynet Summary](https://github.com/Afrocybersamurai/honeynet/edit/main/README.md)
+  - [Cloud Soc Prerequisities](https://github.com/Afrocybersamurai/Cloud-prereqs/blob/main/README.md)
 
 - <b>Network Traffic Analysis</b>
   - Packet Capture with Wireshark
