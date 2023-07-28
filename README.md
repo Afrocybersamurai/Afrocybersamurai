@@ -14,7 +14,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Afrocybersamurai/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Afrocybersamurai/osTicket---Post-Configuration-Setup)
-  - osTicket: Ticket Lifecycle Examples
+ 
  
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -22,10 +22,6 @@
 - <b>Creating Honeynet (VM based SOC)</b>
   - [Honeynet Summary](https://github.com/Afrocybersamurai/honeynet)
   - [Cloud Soc Prerequisities](https://github.com/Afrocybersamurai/CloudSoC-prereqs)
-
-- <b>Network Traffic Analysis</b>
-  - Packet Capture with Wireshark
-  - Traffic Analysis with TCPDump
 
   
 <h2>⛅ Cloud Projects:</h2>
@@ -36,7 +32,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Afrocybersamurai/active-directory-azure)
   - [Building Intuition for DNS](https://github.com/Afrocybersamurai/Building-Intuition-DNS)
   - [Network File Shares and Permissions](https://github.com/Afrocybersamurai/Network-File-Shares-and-Permissions)
-  - Network Security Groups (NSGs) and Inspecting Network Protocols 
+  
    
 ---
 ### Languages and tools ⚙️
