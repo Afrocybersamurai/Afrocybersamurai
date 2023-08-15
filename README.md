@@ -23,8 +23,9 @@
   - [Honeynet Summary](https://github.com/Afrocybersamurai/honeynet)
   - [Cloud Soc Prerequisities](https://github.com/Afrocybersamurai/CloudSoC-prereqs)
   - [Logging and Monitoring](https://github.com/Afrocybersamurai/SOC-Logging-and-Monitoring/tree/main)
+  - [MS Sentinel Config](https://github.com/Afrocybersamurai/MS-Sentinel-Config/tree/main)
+  - [Securing The Cloud](https://github.com/Afrocybersamurai/Securing-The-Cloud/tree/main)
 
-  
 <h2>⛅ Cloud Projects:</h2>
 
 - <b>Microsoft Azure</b>
