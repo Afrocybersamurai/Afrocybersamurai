@@ -22,7 +22,7 @@
 - <b>Creating Honeynet (VM based SOC)</b>
   - [Honeynet Summary](https://github.com/Afrocybersamurai/honeynet)
   - [Cloud Soc Prerequisities](https://github.com/Afrocybersamurai/CloudSoC-prereqs)
-  - [Logginging and Monitoring](https://github.com/Afrocybersamurai/SOC-Logging-and-Monitoring/tree/main)
+  - [Logging and Monitoring](https://github.com/Afrocybersamurai/SOC-Logging-and-Monitoring/tree/main)
 
   
 <h2>⛅ Cloud Projects:</h2>
