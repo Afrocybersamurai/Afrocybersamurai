@@ -2,7 +2,7 @@
 
 
  ---
-![There's no planet B](https://github.com/Afrocybersamurai/Afrocybersamurai/assets/136266716/d0456da7-2a9e-4bd8-9607-3cf5ccf34850)
+![There's no planet B](https://user-images.githubusercontent.com/136266716/261817391-7f122dbb-4f88-4056-a186-7fb53a944343.gif)
 
 
 
