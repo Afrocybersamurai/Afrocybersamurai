@@ -1,4 +1,4 @@
-<h1>Hello, I'm Mike! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" <br/>
+<h1>Hello, I'm Mike!  👋 I do tech things 
   
  
 ---
