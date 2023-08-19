@@ -1,9 +1,8 @@
-<h1>Hello, I'm Mike!  👋 I do tech things 
+<h2>Hello, I'm Mike!  👋 I do tech things 
   
  
 ---
- Your IT, Cybersecurity & Cloud Professional</a>
-[![Profile view](https://komarev.com/ghpvc/?username=Afrocybersamurai&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Afrocybersamurai)
+ Your IT, Cybersecurity & Cloud Professional
 
  ---
 ![There's no planet B](https://github.com/Afrocybersamurai/Afrocybersamurai/assets/136266716/d0456da7-2a9e-4bd8-9607-3cf5ccf34850)
