@@ -6,8 +6,10 @@
 [![Profile view](https://komarev.com/ghpvc/?username=Afrocybersamurai&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Afrocybersamurai)
 
  ---
+![There's no planet B](https://github.com/Afrocybersamurai/Afrocybersamurai/assets/136266716/d0456da7-2a9e-4bd8-9607-3cf5ccf34850)
 
-    
+
+
 
 <h2>💻 Information Technology Projects:</h2>
 
