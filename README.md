@@ -15,7 +15,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Afrocybersamurai/osticketlifecycle-3-of-3)
  
 
-  <h2>👨‍💻 Cybersecurity Projects:</h2>
+ <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating Honeynet (VM based SOC)</b>
   - [Honeynet Summary](https://github.com/Afrocybersamurai/honeynet)
@@ -42,8 +42,10 @@
 
 </p>
 
-
-
+<details>
+ 
+  *<summary> </summary>*
+ </details>
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
