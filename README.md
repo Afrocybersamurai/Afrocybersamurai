@@ -2,7 +2,7 @@
 
 
  ---
-![There's no planet B](https://user-images.githubusercontent.com/136266716/261855741-0db7df61-f684-4a39-b062-9155cacf1e17.gif)
+![There's no planet B](https://user-images.githubusercontent.com/136266716/261856639-8ca22450-4f9a-4990-8615-ad3c18dbf3c6.gif)
 
 
 
