@@ -115,7 +115,7 @@
 
 <br>
 
-  - [**AZ-900** - **Azure **](https://learn.microsoft.com/api/credentials/share/en-us/MI-2121/8F6636FCED52F429?sharingId=54CD60046F48B4CA)
+  - [**AZ-900** - **Azure Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/MI-2121/8F6636FCED52F429?sharingId=54CD60046F48B4CA)
   - [**SC-900** - **Microsoft Security, Compliance, and Identity Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/MI-2121/1FE457C3439EB5FD?sharingId=54CD60046F48B4CA)
   - [**GIAC GFACT** - **GIAC Foundational Cybersecurity Technologies**](https://www.credly.com/badges/3e998a40-005b-47ff-b760-f388354a8398/public_url)
   - [**GIAC GSEC** - **GIAC Security Essentials Certification**](https://www.credly.com/badges/4cb3a260-344b-4eb1-b7d5-e9ac1ce49ab2/public_url)
@@ -138,22 +138,3 @@
 <a href="https://www.linkedin.com/in//"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [linkedin]: https://linkedin.com/in/
-
-
- 
-  *<summary> </summary>*
- </details>
-<!--
-**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
