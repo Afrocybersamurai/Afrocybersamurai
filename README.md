@@ -94,15 +94,23 @@
 <br>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MI-2121/1FE457C3439EB5FD?sharingId=54CD60046F48B4CA">
-    <img src="https://github.com/user-attachments/assets/7b2d1e28-4c8a-4421-86b0-13828b86a912" alt="AZ-900" width="140" height="140"/>
+    <img src="https://www.shanebart.com/wp-content/uploads/2019/09/h4g3hg4h2-1.png" alt="AZ-900" width="140" height="140"/> 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MI-2121/1FE457C3439EB5FD?sharingId=54CD60046F48B4CA">
     <img src="https://github.com/user-attachments/assets/271d1f80-7a68-40f8-b861-fba611f7b264" alt="SC-900" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Afrocybersamurai">
-    <img src="https://github.com/user-attachments/assets/b9f723c5-471a-4ad4-b533-567291ae4e5b" alt="GSEC" width="140" height="140"/>
+    <img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/bltd42dcd7c5c4c108c/63c71c13d1f34304558a361d/GCIH.png" alt="GCIH" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href="https://github.com/Afrocybersamurai">
+    <img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/bltb1222898f9767938/63c71c179ba93014827b0225/GSEC.png" alt="GSEC" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Afrocybersamurai">
+    <img src="https://images.credly.com/size/680x680/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" alt="GFACT" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Afrocybersamurai">
+    <img src="https://images.credly.com/size/680x680/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/blob" alt="ISO 27001" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 
 <br>
