@@ -99,13 +99,13 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MI-2121/1FE457C3439EB5FD?sharingId=54CD60046F48B4CA">
     <img src="https://github.com/user-attachments/assets/271d1f80-7a68-40f8-b861-fba611f7b264" alt="SC-900" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Afrocybersamurai">
+<a href="https://www.credly.com/badges/c6f120b9-ed2b-4717-b080-44a35f00cd4a/public_url">
     <img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/bltd42dcd7c5c4c108c/63c71c13d1f34304558a361d/GCIH.png" alt="GCIH" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Afrocybersamurai">
+<a href="https://www.credly.com/badges/4cb3a260-344b-4eb1-b7d5-e9ac1ce49ab2/public_url">
     <img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/bltb1222898f9767938/63c71c179ba93014827b0225/GSEC.png" alt="GSEC" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Afrocybersamurai">
+<a href="https://www.credly.com/badges/3e998a40-005b-47ff-b760-f388354a8398/public_url">
     <img src="https://images.credly.com/size/680x680/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" alt="GFACT" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Afrocybersamurai">
@@ -117,9 +117,10 @@
 
   - [**AZ-900** - **Azure **](https://learn.microsoft.com/api/credentials/share/en-us/MI-2121/8F6636FCED52F429?sharingId=54CD60046F48B4CA)
   - [**SC-900** - **Microsoft Security, Compliance, and Identity Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/MI-2121/1FE457C3439EB5FD?sharingId=54CD60046F48B4CA)
-  - [**GIAC GFACT** - **XYZ**](https://github.com/Afrocybersamurai)
-  - [**GIAC GSEC** - **XYZ**](https://github.com/Afrocybersamurai)
-  - [**GIAC GCIH** - **XYZ**](https://github.com/Afrocybersamurai)
+  - [**GIAC GFACT** - **GIAC Foundational Cybersecurity Technologies**](https://www.credly.com/badges/3e998a40-005b-47ff-b760-f388354a8398/public_url)
+  - [**GIAC GSEC** - **GIAC Security Essentials Certification**](https://www.credly.com/badges/4cb3a260-344b-4eb1-b7d5-e9ac1ce49ab2/public_url)
+  - [**GIAC GCIH** - **GIAC Certified Incident Handler**](https://www.credly.com/badges/c6f120b9-ed2b-4717-b080-44a35f00cd4a/public_url)
+  - [**ISO/IEC 27001:2022 Lead Auditor** - **Mastermind Assurance**](https://github.com/Afrocybersamurai)
 
 <br>
 
