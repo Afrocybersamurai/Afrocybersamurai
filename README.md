@@ -17,7 +17,7 @@
 
 <h3>🔐 Cybersecurity:</h3>
 
-- [Azure Honeynet & SOC: Cyber Attacks in Real Time]()
+- [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/Afrocybersamurai/Azure-Honey.git)
 
 >  <details close>
 >   
