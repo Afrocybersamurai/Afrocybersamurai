@@ -3,17 +3,10 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-<h3>💻 Information Technology Projects:</h2>
+<h3>💻 Governance Risk & Compliance Projects:</h2>
 
+- [GRC Project](https://github.com/Afrocybersamurai/GRC-Project)
 
-
->  <details close>
->   
-> **<summary>osTicket (Help Desk Ticketing System):</summary>**
->
->  - [osTicket: Prerequisites and Installation](https://github.com/Afrocybersamurai/osticket-prereqs)
->  - [osTicket: Post-Installation Configuration](https://github.com/Afrocybersamurai/osTicket---Post-Configuration-Setup)
->  - [osTicket: Ticket Lifecycle Examples](https://github.com/Afrocybersamurai/osticketlifecycle-3-of-3)
 
 <h3>🔐 Cybersecurity:</h3>
 
@@ -28,10 +21,19 @@
 > 3. 🛡️ [Secure Cloud Configuration - Part 2 ➜ Implement NIST 800-53 SC-7 Security Controls](https://github.com/Afrocybersamurai/Securing-SOC-Environment-Part-2/blob/main/README.md)
 > 
 >   </details>
-
 <br>
 
 <h2></h2>
+
+<h3>💻 Information Technology Projects:</h2>
+
+>  <details close>
+>   
+> **<summary>osTicket (Help Desk Ticketing System):</summary>**
+>
+>  - [osTicket: Prerequisites and Installation](https://github.com/Afrocybersamurai/osticket-prereqs)
+>  - [osTicket: Post-Installation Configuration](https://github.com/Afrocybersamurai/osTicket---Post-Configuration-Setup)
+>  - [osTicket: Ticket Lifecycle Examples](https://github.com/Afrocybersamurai/osticketlifecycle-3-of-3)
 
 <h3>🚩 Vulnerability Management:</h3>
 
