@@ -11,7 +11,6 @@
 >   
 > **<summary>osTicket (Help Desk Ticketing System):</summary>**
 >
-> <b>osTicket (Help Desk Ticketing System)</b>
 >  - [osTicket: Prerequisites and Installation](https://github.com/Afrocybersamurai/osticket-prereqs)
 >  - [osTicket: Post-Installation Configuration](https://github.com/Afrocybersamurai/osTicket---Post-Configuration-Setup)
 >  - [osTicket: Ticket Lifecycle Examples](https://github.com/Afrocybersamurai/osticketlifecycle-3-of-3)
