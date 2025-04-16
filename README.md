@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-<h3>💻 Governance Risk & Compliance Projects:</h2>
+<h3>💻 Governance Risk & Compliance :</h2>
 
 - [GRC Project](https://github.com/Afrocybersamurai/GRC-Project)
 
@@ -25,7 +25,7 @@
 
 <h2></h2>
 
-<h3>💻 Information Technology Projects:</h2>
+<h3>💻 Information Technology :</h2>
 
 >  <details close>
 >   
