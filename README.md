@@ -5,7 +5,7 @@
 
 <h3>💻 Information Technology Projects:</h2>
 
-- [Azure Honeynet & SOC: Cyber Attacks in Real Time]()
+
 
 >  <details close>
 >   
