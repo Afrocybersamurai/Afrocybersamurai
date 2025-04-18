@@ -30,7 +30,7 @@
 
 <h3>🚩 Vulnerability Management:</h3>
 
-> - [Vulnerability Management Program Using Tenable](https://github.com/Afrocybersamurai/Vulnerability-Management-Program/blob/main/README.md)
+> - [Vulnerability Management in Corporate Environment using Tenable](https://github.com/Afrocybersamurai/Vulnerability-Management-Program/blob/main/README.md)
 > - [Vulnerability Management Lifecycle within an Organization](https://github.com/Afrocybersamurai/Vulnerability-Management-Lifecycle/blob/main/README.md)
 >
 
