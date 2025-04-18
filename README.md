@@ -32,7 +32,7 @@
 
 > - [Vulnerability Management in Corporate Environment using Tenable](https://github.com/Afrocybersamurai/Vulnerability-Management-Program/blob/main/README.md)
 > - [Building a Vulnerability Management Program with OpenVAS & Microsoft Azure](https://github.com/Afrocybersamurai/Vulnerability-Management-Lab/blob/main/README.md)
-> - [Vulnerability Management Lifecycle within an Organization](https://github.com/Afrocybersamurai/Vulnerability-Management-Lifecycle/blob/main/README.md)
+> - [Vulnerability Management Lifecycle with OpenVAS & Microsoft Azure](https://github.com/Afrocybersamurai/Vulnerability-Management-Lifecycle/blob/main/README.md)
 >
 
 - [Setting Up MFA and Protecting RDP Using Duo](https://github.com/fAfrocybersamurai/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
