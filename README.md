@@ -6,7 +6,7 @@
 <h3>💻 Governance Risk & Compliance :</h2>
 
 - [Corporate Cybersecurity Assessment Utilizing NIST Cybersecurity Framework (CSF) 2.0](https://github.com/Afrocybersamurai/NIST-Assessment)
-- [Securing A Controlled Unclassified Information (CUI) Environment using NIST 800-17 and NIST 800-53](https://github.com/Afrocybersamurai/GRC-Project)
+- [Securing A Controlled Unclassified Information (CUI) Environment using NIST 800-17 & NIST 800-53](https://github.com/Afrocybersamurai/GRC-Project)
 
 
 <h3>🔐 Cybersecurity:</h3>
