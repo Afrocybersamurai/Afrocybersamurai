@@ -26,15 +26,7 @@
 
 <h2></h2>
 
-<h3>💻 Information Technology :</h2>
 
->  <details close>
->   
-> **<summary>osTicket (Help Desk Ticketing System):</summary>**
->
->  - [osTicket: Prerequisites and Installation](https://github.com/Afrocybersamurai/osticket-prereqs)
->  - [osTicket: Post-Installation Configuration](https://github.com/Afrocybersamurai/osTicket---Post-Configuration-Setup)
->  - [osTicket: Ticket Lifecycle Examples](https://github.com/Afrocybersamurai/osticketlifecycle-3-of-3)
 
 <h3>🚩 Vulnerability Management:</h3>
 
@@ -43,24 +35,6 @@
 >
 
 - [Setting Up MFA and Protecting RDP Using Duo](https://github.com/fAfrocybersamurai/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
-
-<br>
-
-<h2></h2>
-
-<h3>🌐 Active Directory:</h3>
-
-> - [Active Directory: Practical Scenario Simulation](https://github.com/Afrocybersamurai/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
-> 
->  <details close>
->   
-> **<summary>AD Configuration & User Creation</summary>** 
->   
-> 1. [Active Directory Setup & Network Traffic Analysis between Azure VMs](https://github.com/Afrocybersamurai/Active-Directory-and-Azure-Setup/blob/main/README.md)
-> 2. [Active Directory Deployment & Configuration](https://github.com/Afrocybersamurai/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
-> 3. [Active Directory User Generation with PowerShell](https://github.com/Afrocybersamurai/Active-Directory-User-Generation/blob/main/README.md)
-> 
->   </details>
 
 <br>
 
@@ -85,6 +59,34 @@
 >   - [Configure an Application Security Group](https://github.com/Afrocybersamurai/Configure-an-Application-Security-Group/blob/main/README.md)
 > 
 >   </details>
+
+<h3>💻 Information Technology :</h2>
+
+>  <details close>
+>   
+> **<summary>osTicket (Help Desk Ticketing System):</summary>**
+>
+>  - [osTicket: Prerequisites and Installation](https://github.com/Afrocybersamurai/osticket-prereqs)
+>  - [osTicket: Post-Installation Configuration](https://github.com/Afrocybersamurai/osTicket---Post-Configuration-Setup)
+>  - [osTicket: Ticket Lifecycle Examples](https://github.com/Afrocybersamurai/osticketlifecycle-3-of-3)
+
+<h3>🌐 Active Directory:</h3>
+
+> - [Active Directory: Practical Scenario Simulation](https://github.com/Afrocybersamurai/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
+> 
+>  <details close>
+>   
+> **<summary>AD Configuration & User Creation</summary>** 
+>   
+> 1. [Active Directory Setup & Network Traffic Analysis between Azure VMs](https://github.com/Afrocybersamurai/Active-Directory-and-Azure-Setup/blob/main/README.md)
+> 2. [Active Directory Deployment & Configuration](https://github.com/Afrocybersamurai/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
+> 3. [Active Directory User Generation with PowerShell](https://github.com/Afrocybersamurai/Active-Directory-User-Generation/blob/main/README.md)
+> 
+>   </details>
+
+<br>
+
+<h2></h2>
 
 
 <br>
@@ -126,11 +128,6 @@
 <br>
 
 
-
-<div>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/MI-2121/8F6636FCED52F429?sharingId=54CD60046F48B4CA"><img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/MI-2121/1FE457C3439EB5FD?sharingId=54CD60046F48B4CA"><img src="https://img.shields.io/badge/-SC--900-00599C?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-</div>
 
 <br>
 
