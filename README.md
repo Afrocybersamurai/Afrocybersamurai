@@ -41,25 +41,7 @@
 
 <h2></h2>
 
-<h3>☁️ Microsoft Azure:</h3>
 
-> <details close> 
->   
-> **<summary>Cloud Security</summary>**
-> 
->   - [Configure Azure Disk Encryption](https://github.com/Afrocybersamurai/Configure-Azure-Disk-Encryption/blob/main/README.md)
->   - [Azure Secure Data & Applications](https://github.com/Afrocybersamurai/Azure-Secure-Data-and-Applications/blob/main/README.md)
-> 
->   </details>
-> 
->   <details close> 
->   
-> **<summary>Cloud Networking</summary>**
-> 
->   - [Configure Virtual Network Connectivity by using Peering](https://github.com/Afrocybersamurai/Configure-Virtual-Network-Connectivity-by-Using-Peering/blob/main/README.md)
->   - [Configure an Application Security Group](https://github.com/Afrocybersamurai/Configure-an-Application-Security-Group/blob/main/README.md)
-> 
->   </details>
 
 <h3>💻 Information Technology :</h2>
 
@@ -71,17 +53,7 @@
 >  - [osTicket: Post-Installation Configuration](https://github.com/Afrocybersamurai/osTicket---Post-Configuration-Setup)
 >  - [osTicket: Ticket Lifecycle Examples](https://github.com/Afrocybersamurai/osticketlifecycle-3-of-3)
 
-<h3>🌐 Active Directory:</h3>
 
-> - [Active Directory: Practical Scenario Simulation](https://github.com/Afrocybersamurai/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
-> 
->  <details close>
->   
-> **<summary>AD Configuration & User Creation</summary>** 
->   
-> 1. [Active Directory Setup & Network Traffic Analysis between Azure VMs](https://github.com/Afrocybersamurai/Active-Directory-and-Azure-Setup/blob/main/README.md)
-> 2. [Active Directory Deployment & Configuration](https://github.com/Afrocybersamurai/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
-> 3. [Active Directory User Generation with PowerShell](https://github.com/Afrocybersamurai/Active-Directory-User-Generation/blob/main/README.md)
 > 
 >   </details>
 
